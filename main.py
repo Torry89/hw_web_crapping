@@ -1,6 +1,6 @@
 import requests
 import bs4
-from pprint import pprint
+
 
 
 url = 'https://habr.com/ru/articles/'
